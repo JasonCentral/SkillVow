@@ -19,6 +19,6 @@ public class Practice extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.practice_fragment, container, false);
-        return super.onCreateView(inflater, container, savedInstanceState);
+        return view;
     }
 }
