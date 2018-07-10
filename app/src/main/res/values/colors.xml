@@ -7,4 +7,5 @@
     <color name="tabText">#000000</color>
     <color name="tabIndicator">#f0a91d32</color>
     <color name="plusColor">#86f187</color>
+    <color name="titleTextColor">#ffffff</color>
 </resources>
